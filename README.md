@@ -44,6 +44,8 @@ And if user's screen is retina, this `img` tag will get attr `src` with `/path/t
 **Note: if `/path/to/img@2x.png` will not found, plugin will adds `/path/to/img.png`**
 But if user's screen is not retina, this `img` tag will get `/path/to/img.png`.
 
+**`src-retina` attribute will removed after added `src` attribute**
+
 ## Configs
 Plugin will have configs in future.
 
