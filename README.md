@@ -1,7 +1,7 @@
 # Angular "src-retina" module
 Adds `src-retina` directive, for support retina-images.
 
-![version](https://img.shields.io/badge/version-1.0.2-green.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.0.3-green.svg?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 
 ## Installation
@@ -41,7 +41,9 @@ Example:
 ```
 
 And if user's screen is retina, this `img` tag will get attr `src` with `/path/to/img@2x.png`.
+
 **Note: if `/path/to/img@2x.png` will not found, plugin will adds `/path/to/img.png`**
+
 But if user's screen is not retina, this `img` tag will get `/path/to/img.png`.
 
 **`src-retina` attribute will removed after added `src` attribute**
