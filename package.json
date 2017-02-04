@@ -1,0 +1,24 @@
+{
+  "name": "angular-src-retina",
+  "version": "1.0.0",
+  "description": "Adds src-retina directive, for support retina-images.",
+  "main": "angular-src-retina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslpp056193/angular-src-retina.git"
+  },
+  "keywords": [
+    "angular",
+    "retina",
+    "directive"
+  ],
+  "author": "medzhidov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dslpp056193/angular-src-retina/issues"
+  },
+  "homepage": "https://github.com/dslpp056193/angular-src-retina#readme"
+}
