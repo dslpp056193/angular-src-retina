@@ -1,7 +1,7 @@
 # Angular "src-retina" module
 Adds `src-retina` directive, for support retina-images.
 
-![version](https://img.shields.io/badge/version-1.0.0-green.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.0.2-green.svg?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 
 ## Installation
