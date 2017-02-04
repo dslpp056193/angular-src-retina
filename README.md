@@ -21,7 +21,7 @@ yarn add angular-src-retina
 You can just add a script from CDN:
 
 ```
-<script src="https://cdn.rawgit.com/dslpp056193/font-awesome-codes-html/7f1e834e/README.md"></script>
+<script src="https://cdn.rawgit.com/dslpp056193/angular-src-retina/77ae3308/angular-src-retina.js"></script>
 ```
 
 ### Add module
