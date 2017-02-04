@@ -41,7 +41,7 @@ Example:
 ```
 
 And if user's screen is retina, this `img` tag will get attr `src` with `/path/to/img@2x.png`.
-#### Note: if `/path/to/img@2x.png` will not found, plugin will adds `/path/to/img.png`
+**Note: if `/path/to/img@2x.png` will not found, plugin will adds `/path/to/img.png`**
 But if user's screen is not retina, this `img` tag will get `/path/to/img.png`.
 
 ## Configs
