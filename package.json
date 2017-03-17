@@ -1,6 +1,6 @@
 {
   "name": "angular-src-retina",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Adds src-retina directive, for support retina-images.",
   "main": "angular-src-retina.js",
   "scripts": {
