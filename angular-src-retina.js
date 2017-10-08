@@ -9,14 +9,13 @@ angular.module('src-retina', [])
     return {
         restrict: 'A',
         scope: false,
-        compile: function($element, $attrs){
+        link: function($element, $attrs){
             var defaults = {
                 replaced: false,
                 attr_name: 'src-retina',
                 src: $element.attr('src-retina')
             };
 
-            // if( window.devicePixelRatio >= 2 && defaults.replaced == false ){
             if( window.devicePixelRatio >= 2 && defaults.replaced == false ){
                 defaults.replaced = true;
 
