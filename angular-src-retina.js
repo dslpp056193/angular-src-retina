@@ -9,7 +9,7 @@ angular.module('src-retina', [])
     return {
         restrict: 'A',
         scope: false,
-        link: function($element, $attrs){
+        link: function($scope, $element, $attrs){
             var defaults = {
                 replaced: false,
                 attr_name: 'src-retina',
